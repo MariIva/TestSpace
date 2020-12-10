@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TestSpace</string>
+
+    <string name="rule1">1. Нажать кнопку "Начать тест".</string>
+    <string name="rule2">2. Прочитать вопрос.</string>
+    <string name="rule3">3. Выбрать ответ.</string>
+    <string name="rule4">4. Нажать кнопку "Следующий".</string>
+    <string name="rule5">5. Когда кнопка "Следующий" станет не доступна, нажать кнопку "Завершить".</string>
+
+    <string name="start">Начать</string>
+    <string name="result">Результат</string>
+    <string name="rule">Правила</string>
+
+    <string name="next">Следующий</string>
+    <string name="exit">Закончить</string>
+
+    <string name="docx">Открыть docx</string>
+    <string name="txt">Открыть txt</string>
+
+    <string name="ans">Ваш результат:</string>
+</resources>
